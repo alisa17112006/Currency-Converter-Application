@@ -94,7 +94,7 @@ Overall, this application not only fulfills its primary function but also provid
 7. Получение актуальных курсов валют:
    - Приложение получает курсы обмена валют через FreeCurrencyAPI в формате JSON с помощью HTTP-запроса. Курсы валют сохраняются в виде карты (где ключ — это код валюты, а значение — курс валюты).
   
-![image](https://github.com/user-attachments/assets/10723565-d7c9-4556-9846-2e5b6d403c5c)         ![image](https://github.com/user-attachments/assets/8d520f43-9b8c-44db-a100-f9b1cc024bc3)        ![image](https://github.com/user-attachments/assets/ebe5002c-2ec8-4118-891c-baf8c336b76f)
+![image](https://github.com/user-attachments/assets/93904471-82a3-4184-abc6-fa8856d74c14)       ![image](https://github.com/user-attachments/assets/cae938ad-fa8d-47b1-9029-97405868a38e)      ![image](https://github.com/user-attachments/assets/59de4df1-8e36-41f1-af17-066835a2d47c)
 
 Зависимости приложения:
 

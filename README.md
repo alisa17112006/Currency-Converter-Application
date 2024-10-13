@@ -2,6 +2,9 @@
 This is a simple application based on JavaFX that converts currencies using the latest exchange rates obtained through FreeCurrencyAPI. 
 The application provides an easy-to-use interface where users can select currencies and input the amount for conversion.
 
+![image](https://github.com/user-attachments/assets/93904471-82a3-4184-abc6-fa8856d74c14)       ![image](https://github.com/user-attachments/assets/cae938ad-fa8d-47b1-9029-97405868a38e)      ![image](https://github.com/user-attachments/assets/59de4df1-8e36-41f1-af17-066835a2d47c)
+
+
 Functional Features:
 
 1. Input Amount for Conversion:
@@ -27,9 +30,6 @@ Functional Features:
 
 7. Fetching Up-to-Date Currency Rates:
    - The application fetches currency exchange rates through FreeCurrencyAPI in JSON format using an HTTP request. The exchange rates are stored in a map (where the key is the currency code and the value is the exchange rate).
-
-![image](https://github.com/user-attachments/assets/93904471-82a3-4184-abc6-fa8856d74c14)       ![image](https://github.com/user-attachments/assets/cae938ad-fa8d-47b1-9029-97405868a38e)      ![image](https://github.com/user-attachments/assets/59de4df1-8e36-41f1-af17-066835a2d47c)
-
 
 Dependencies of the application:
 
@@ -68,6 +68,9 @@ Overall, this application not only fulfills its primary function but also provid
 Это простое приложение на основе JavaFX, которое конвертирует валюты с использованием последних курсов обмена, полученных через FreeCurrencyAPI. 
 Приложение предоставляет удобный интерфейс, где пользователи могут выбрать валюты и ввести сумму для конвертации.
 
+![image](https://github.com/user-attachments/assets/93904471-82a3-4184-abc6-fa8856d74c14)       ![image](https://github.com/user-attachments/assets/cae938ad-fa8d-47b1-9029-97405868a38e)      ![image](https://github.com/user-attachments/assets/59de4df1-8e36-41f1-af17-066835a2d47c)
+
+
 Функциональные особенности:
 
 1. Ввод суммы для конвертации:
@@ -93,8 +96,6 @@ Overall, this application not only fulfills its primary function but also provid
 
 7. Получение актуальных курсов валют:
    - Приложение получает курсы обмена валют через FreeCurrencyAPI в формате JSON с помощью HTTP-запроса. Курсы валют сохраняются в виде карты (где ключ — это код валюты, а значение — курс валюты).
-  
-![image](https://github.com/user-attachments/assets/93904471-82a3-4184-abc6-fa8856d74c14)       ![image](https://github.com/user-attachments/assets/cae938ad-fa8d-47b1-9029-97405868a38e)      ![image](https://github.com/user-attachments/assets/59de4df1-8e36-41f1-af17-066835a2d47c)
 
 Зависимости приложения:
 

@@ -28,7 +28,7 @@ Functional Features:
 7. Fetching Up-to-Date Currency Rates:
    - The application fetches currency exchange rates through FreeCurrencyAPI in JSON format using an HTTP request. The exchange rates are stored in a map (where the key is the currency code and the value is the exchange rate).
 
-![image](https://github.com/user-attachments/assets/10723565-d7c9-4556-9846-2e5b6d403c5c)                   ![image](https://github.com/user-attachments/assets/8d520f43-9b8c-44db-a100-f9b1cc024bc3)              ![image](https://github.com/user-attachments/assets/ebe5002c-2ec8-4118-891c-baf8c336b76f)
+![image](https://github.com/user-attachments/assets/10723565-d7c9-4556-9846-2e5b6d403c5c)      ![image](https://github.com/user-attachments/assets/8d520f43-9b8c-44db-a100-f9b1cc024bc3)      ![image](https://github.com/user-attachments/assets/ebe5002c-2ec8-4118-891c-baf8c336b76f)
 
 Dependencies of the application:
 

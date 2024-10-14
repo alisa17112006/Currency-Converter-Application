@@ -28,6 +28,8 @@ Functional Features:
      - If there is no connection to the API or another error occurs while loading data, a corresponding error message is shown.
      - The program checks whether the currencies are selected and displays a message if one of them is missing.
 
+![image](https://github.com/user-attachments/assets/dbd63135-b0cd-4c46-9b9a-69f202db30e7)          ![image](https://github.com/user-attachments/assets/62463f00-4f9b-4e25-a732-11a1ce0857fe)          
+
 7. Fetching Up-to-Date Currency Rates:
    - The application fetches currency exchange rates through FreeCurrencyAPI in JSON format using an HTTP request. The exchange rates are stored in a map (where the key is the currency code and the value is the exchange rate).
 
@@ -93,6 +95,8 @@ Overall, this application not only fulfills its primary function but also provid
      - Если пользователь ввел некорректную сумму (например, текст вместо числа), выводится сообщение об ошибке.
      - Если нет подключения к API или возникла другая ошибка при загрузке данных, выводится соответствующее сообщение.
      - Программа проверяет, выбраны ли валюты, и выводит сообщение, если одна из них не выбрана.
+
+![image](https://github.com/user-attachments/assets/dbd63135-b0cd-4c46-9b9a-69f202db30e7)          ![image](https://github.com/user-attachments/assets/62463f00-4f9b-4e25-a732-11a1ce0857fe) 
 
 7. Получение актуальных курсов валют:
    - Приложение получает курсы обмена валют через FreeCurrencyAPI в формате JSON с помощью HTTP-запроса. Курсы валют сохраняются в виде карты (где ключ — это код валюты, а значение — курс валюты).
